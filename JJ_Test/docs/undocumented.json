@@ -1,0 +1,138 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 13,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 15,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 18,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 23,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 28,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 33,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 37,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 41,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 49,
+      "symbol": "AppDelegate.persistentContainer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift",
+      "line": 78,
+      "symbol": "AppDelegate.saveContext()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/Dog.swift",
+      "line": 24,
+      "symbol": "dogGender.male",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/Dog.swift",
+      "line": 25,
+      "symbol": "dogGender.female",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/Dog.swift",
+      "line": 43,
+      "symbol": "Dog.dogName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/Dog.swift",
+      "line": 44,
+      "symbol": "Dog.dogAge",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/Dog.swift",
+      "line": 45,
+      "symbol": "Dog.dogGender",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/Dog.swift",
+      "line": 47,
+      "symbol": "Dog.init(_:_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/ViewController.swift",
+      "line": 11,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/ViewController.swift",
+      "line": 13,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/ViewController.swift",
+      "line": 20,
+      "symbol": "ViewController.createADog(_:_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test"
+}

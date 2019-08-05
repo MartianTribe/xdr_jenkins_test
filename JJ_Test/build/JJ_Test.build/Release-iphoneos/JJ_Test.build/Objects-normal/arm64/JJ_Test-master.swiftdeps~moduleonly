@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "5d62919684990dde04548e8ee208d7bb"
+build_time: [1565015802, 347111000]
+inputs:
+  "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/ViewController.swift": [9223372036, 854775807]
+  "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/Dog.swift": [9223372036, 854775807]
+  "/Users/ssuranie/Desktop/Development/xusdk_jtest/JJ_Test/JJ_Test/AppDelegate.swift": [9223372036, 854775807]
